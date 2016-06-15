@@ -1,0 +1,5 @@
+# Server settings (ServerProperties)
+server:
+  port: 8099
+  sessionTimeout: 30
+  contextPath: /
